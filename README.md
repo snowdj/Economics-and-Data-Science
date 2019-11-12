@@ -1,5 +1,5 @@
 
-# Data Science and Economics
+# Data Science and Economics :chart_with_upwards_trend: :computer:
 
 Resources at the intersection of Data Science and  Economics/ Social Science/ Policy
 
@@ -8,20 +8,24 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 # Table of Contents
 
-* [**Articles**](#articles) - Articles exploring the intersection of these two fields
+* :page_facing_up: [**Articles**](#articles) - Articles exploring the intersection of these two fields
 
-* [**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
+* :clipboard:[**Academic Papers**](#papers) - Research papers by Economists/ Statisticians on ML and Economics  
 
-* [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
+* :tv: [**Videos/ Lectures**](#videos) - Lectures given by Economists on ML/ Data Science
 
-* [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
+* :woman: :man: [**Economists/Data Scientists**](#people) - Economists working as Data Scientests in Industry and Academia
 
-* [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
+* :mortar_board: [**Courses & Syllabus**](#syllabus) - Syllabus and courses which are at the intersection of Data Science and Economics
 
 *** 
 
 
-## Articles <a name="articles"></a>
+## Articles <a name="articles"></a> :page_facing_up:
+
+<details>
+<summary>CLICK ME</summary>
+
 
 ##### Unfortunately many articles are behind paywall now, especially old Bloomberg ones. 
 
@@ -86,11 +90,20 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Economic Predictions with Big Data: The Illusion of Sparsity**](http://libertystreeteconomics.newyorkfed.org/2018/05/economic-predictions-with-big-data-the-illusion-of-sparsity.html) - *NY Federal Reserve*
 
+* [**Refining the “science” of political science (MIT)**](https://polisci.mit.edu/news/2018/refining-science-political-science)- *MIT PolSc*
+
+	* [**Political Methodology Lab**](https://pmlab.mit.edu/)- *MIT PolSc*
+
+
+</details>
 
 
 *** 
 
-## Academic Papers <a name="papers"></a>
+## Academic Papers <a name="papers"></a> :clipboard:
+
+<details>
+<summary>CLICK ME</summary>
 
 #### Journal of Economics Perspective Symposiums
 
@@ -147,9 +160,14 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Machine Learning Methods for Causal Effects**](http://www.nasonline.org/programs/sackler-colloquia/documents/athey.pdf)
 
 
+</details>
+
 *** 
 
-## Videos/Lectures <a name="videos"></a>
+## Videos/Lectures <a name="videos"></a> :tv:
+
+<details>
+<summary>CLICK ME</summary>
 
 ### Susan Athey Videos - Prof. of Economics @ Stanford Graduate School of Business
 
@@ -191,20 +209,27 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Why Economics Needs Data Mining**](http://bit.ly/2nD1su2) *Cosma Shalizi(CMU)* 
 
+* [**Machinistas meet Randomistas: useful ML tools for Empirical Researchers**](https://vimeo.com/283711883) *Esther Duflo*
+
 * [**The Economics of Artificial Intelligence & Income Distribution**](http://bit.ly/2nH1Zez) *Jeffrey Sachs*
 
 * [**Human Decisions and Machine Predictions**](https://mediaspace.gatech.edu/media/Human+Decisions+and+Machine+Predictions+-+Jon+Kleinberg/1_uinz3r4t) *Jon Kleinberg (Cornell)*
 
-* [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8)
+* [**The Challenge of Big Data for the Social Sciences**](http://bit.ly/2E3sIg8) *Kenneth Benoit, Kenneth Cukier*
 
-* [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) 
+* [**Data Science from the Perspective of an Applied Economist**](http://bit.ly/2DZ778J) *Scott Nicholson*
 
-* [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj)
+* [**From Economist to Data Scientist: How our discipline can participate in the growth of analytics**](http://bit.ly/2E0hauj) *Kenneth Sanford*
+
+</details>
 
 *** 
 
 
-## Economists/Data Scientests <a name="people"></a>
+## Economists/Data Scientists <a name="people"></a> :woman: :man:
+
+<details>
+<summary>CLICK ME</summary>
 
 
 ### Academics
@@ -219,6 +244,11 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Ariel Procaccia**](http://procaccia.info/) : *Carnegie Mellon University*
 
+* [**Dario Sansone**](https://sites.google.com/view/dariosansone/home?authuser=0) : *Phd Candidate Georgetown University*
+	* Dario has compiled an [informative list on ML and Economics](https://sites.google.com/view/dariosansone/resources/machine-learning?authuser=0)
+
+* [**Soubhik Barari**](https://soubhikbarari.github.io/) : *Harvard University*
+
 
 
 ### Industry
@@ -232,7 +262,8 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 ### Economists at various companies
 
-| Economists                                                                     |    Company    | Comments                       |       
+
+| Economist                                                                      |    Company    | Comment                        |
 | -------------------------------------------------------------------------------|:------------- |:-------------------------------|
 | [**Emily Glassberg Sands**](https://twitter.com/emilygsands)                   | Coursera      | Data Science Head              |
 | [**Jed Kolko**](http://blog.indeed.com/author/jedkolko/)                       | Indeed        | Chief Economist                |
@@ -243,9 +274,21 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 | [**Justin M. Rao**](http://www.justinmrao.com/index.html)                      | Microsoft     | Economist -Member of interdisciplinary research group combining social science with computational and theoretical methods|
 
 
+</details>
+
 ***
 
-## Syllabus <a name="syllabus"></a>
+## Syllabus <a name="syllabus"></a>  :mortar_board:
+
+<details>
+<summary>CLICK ME</summary>
+
+
+* MIT has started a new Major for Undergraduates. The Program aims to impart students skills from Data Science and Economics
+	* [News Announcement](http://news.mit.edu/2017/mit-creates-new-major-computer-science-economics-data-science-0904)
+	* [Economics 6-14: Course Overview](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science)
+	* [Course Content](https://github.com/vkoul/Economics-and-Data-Science/blob/master/MIT_computer-science-economics-data-science-course-6-14.pdf)
+
 
 * [**Machine Learning and Econometrics (Susan Athey, Guido Imbens)**](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) - *Stanford University* 
 	* There are videos and course material available
@@ -259,11 +302,16 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 
 * [**Data Science for Politics**](https://www.dropbox.com/s/eqkpyd4cv1uhzjb/Polisci150A_syllabus_Fall17.pdf?dl=0) - *Stanford University*
 
+* [**Machine Learning and Data Science in Politics**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Machine%20Learning%20and%20Data%20Science%20in%20Politics%20Syllabus_MIT.pdf) - *In Song Kim @ MIT*
+
 * [**Machine Learning and Causal Inference**](https://people.stanford.edu/athey/sites/default/files/phdmlsyllabus.pdf) - *Susan Athey @ Stanford University*
 
 * [**Big Data**](http://dan.bjorkegren.com/bigdata/) - *Daniel Bjorkegren @ Brown University*
 
 * [**Data Analysis for Social Scientists**](https://www.edx.org/course/data-analysis-for-social-scientists-0)- *Esther Duflo & Sara Fisher @ MITx*
+
+* [**R-Based High Performance Computing for Social Science**](https://github.com/soubhikbarari/MIT-HPC)- *Soubhik Barari @ MIT*
+
 
 * [**Field Experiments**](http://davidreiley.com/Courses/FieldExperimentsEconomics/FieldExperimentsEconomicsSyllabus.html) - *David Reiley @ UC Berkley*
 
@@ -274,4 +322,18 @@ Resources at the intersection of Data Science and  Economics/ Social Science/ Po
 * [**Designing the Digital Economy**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Designing%20the%20Digital%20Economy_Yale_Syllabus.pdf) - *Glen Weyl @ Yale*
 	* Digitization is transforming a variety of markets from personal transportation services to advertising. This course explores the economic tools (market design, price theory, causal inference, etc.) and technical tools from computer science (machine learning, the analysis of algorithms, user interface design, etc.) students need to contribute meaningfully to this transformation.
 
+* [**Enviornmental Economics and Data Science**](https://github.com/vkoul/Economics-and-Data-Science/blob/master/Enviormental%20Economics%20and%20Data%20Science_syllabus.pdf) - *Grant McDermott @ University of Oregon*
+	* [Lectures](https://github.com/uo-ec607/lectures)	
 
+* [**Data for Sustainable Development**](http://web.stanford.edu/class/cs325b/index.html) - *Marshall Burke, Stefano Ermon, David Lobell @ Stanford University*
+	* The sustainable development goals (SDGs) encompass many important aspects of human and ecosystem well-being that are traditionally difficult to measure. This project-based course will focus on ways to use inexpensive, unconventional data streams to measure outcomes relevant to SDGs, including poverty, hunger, health, governance, and economic activity. Students will apply machine learning techniques to various projects outlined at the beginning of the quarter
+	* [Syllabus](https://github.com/vkoul/Economics-and-Data-Science/blob/master/DDI%20class%20syllabus.pdf)
+	* [Projects](http://web.stanford.edu/class/cs325b/projects.html)
+
+</details>
+
+*** 
+
+Made with :heart: by Vikesh. Say Hi!:wave:
+[Twitter :bird:](https://twitter.com/vikesh_koul)
+[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
